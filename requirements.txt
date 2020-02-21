@@ -3,3 +3,4 @@ djangorestframework
 psycopg2
 flake8
 djoser
+django-extensions
